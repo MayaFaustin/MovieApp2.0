@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Is this movie a series? " + isASeries);
         //arrays start at 0. So 0, 1 ,2 ,3
         System.out.println("This movie has two directors, and their initials are " + directorsInitial[0] + " and " + directorsInitial[1] + ".");
-        System.out.println("My favorite movie genres are " + favGenres[0] + ", " + favGenres[1] + ",and " + favGenres[2] + ".");
+        //System.out.println("My favorite movie genres are " + favGenres[0] + ", " + favGenres[1] + ",and " + favGenres[2] + ".");
 
 
 
